@@ -3,7 +3,9 @@ This project cleans &amp; analyzes workforce data in India. It creates visualiza
 
 Workflow: Industrial Human Resource Geo-Visualization
 1.Data Acquisition: Download or access the provided CSV datasets containing workforce information.
+
 2.Data Inventory: Document the number and names of CSV files, identifying any potential duplicates.
+
 3.Data Understanding: Briefly review the data structure and variable names in each CSV file.
 4.Data Merging: Combine all relevant CSV files into a single, comprehensive dataframe.
 5.Data Cleaning (Part 1): Identify and handle missing values (e.g., imputation or removal).
