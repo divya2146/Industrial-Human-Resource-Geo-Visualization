@@ -72,10 +72,3 @@ In conclusion,
 2.Gender Distribution in Rural and Urban Areas: The analysis highlights an interesting trend in the distribution of female workers between rural and urban areas. It is observed that rural areas have a higher proportion of female workers compared to urban areas. This phenomenon may reflect the nature of employment opportunities and socio-economic factors influencing workforce participation in different regions.
 
 This project serves as a valuable tool to ensure a more informed and data-driven approach to managing India's human resources within the industrial sector.
-
-
-
-share
-
-
-more_vert
