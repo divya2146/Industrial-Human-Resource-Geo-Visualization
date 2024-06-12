@@ -11,37 +11,43 @@ Workflow: Industrial Human Resource Geo-Visualization
 
 4.Data Merging: Combine all relevant CSV files into a single, comprehensive dataframe.
 
-5.Data Cleaning (Part 1): Identify and handle missing values (e.g., imputation or removal).
+5.Data Cleaning:
+ 
+ 1: Identify and handle missing values (e.g., imputation or removal).
 
-6.Data Cleaning (Part 2): Address inconsistencies in data formats (e.g., date formats, units).
+ 2: Address inconsistencies in data formats (e.g., date formats, units).
 
-7.Exploratory Data Analysis (EDA) - Initial: Get a high-level overview of worker distribution across industries and states.
+6.Exploratory Data Analysis (EDA) - Initial: Get a high-level overview of worker distribution across industries and states.
 
-8.Feature Engineering (Part 1): Create new features if necessary (e.g., total workforce per state).
+7.Feature Engineering (Part 1): Create new features if necessary (e.g., total workforce per state).
 
-9.Natural Language Processing (NLP): Analyze text data related to industries (if available) using NLP techniques.
+8.Natural Language Processing (NLP): Analyze text data related to industries using NLP techniques.
 
-10.Feature Engineering (Part 2): Use NLP insights to group similar business categories into broader industry sectors (e.g., Retail, Manufacturing).
+9.Feature Engineering (Part 2): Use NLP insights to group similar business categories into broader industry sectors (e.g., Retail, Manufacturing).
 
-11.Data Cleaning (Part 3): Address any errors or inconsistencies identified during initial EDA.
+10.Data Cleaning (Part 3): Address any errors or inconsistencies identified during initial EDA.
 
-12.EDA - Deeper Dive: Analyze worker demographics (age, education) within key industries.
+11.EDA :
+   
+   Deeper Dive: Analyze worker demographics within key industries.
 
-13.EDA - Regional Focus: Explore regional variations in workforce composition across states.
+   Regional Focus: Explore regional variations in workforce composition across states.
 
-14.Visualization Preparation: Prepare data for visualization using appropriate libraries (e.g., Plotly).
+12.Visualization Preparation: Prepare data for visualization using appropriate libraries (e.g., Plotly).
 
-15.Visualization Development (Part 1): Create a map visualizing worker distribution across states and industries.
+13.Visualization Development 
 
-16.Visualization Development (Part 2): Develop additional visualizations to explore industry-specific trends (e.g., bar charts for worker demographics).
+   Part 1: Create a map visualizing worker distribution across states and industries.
 
-17.Streamlit App Development (Part 1): Set up the Streamlit framework to build the interactive dashboard.
+   Part 2: Develop additional visualizations to explore industry-specific trends (e.g., bar charts for worker demographics).
 
-18.Streamlit App Development (Part 2): Implement interactive filters for industry, state, and worker category (main/marginal).
+14.Streamlit App Development
 
-19.Streamlit App Development (Part 3): Integrate visualizations into the Streamlit dashboard for dynamic exploration.
+  Part 1: Set up the Streamlit framework to build the interactive dashboard.
 
-20.Presentation & Documentation: Prepare a PowerPoint presentation summarizing the project (problem, tools, approach, findings).
+  Part 2: Implement interactive filters for industry, state, and worker category (main/marginal).
+
+  Part 3: Integrate visualizations into the Streamlit dashboard for dynamic exploration.
 
 
 Expected Outcomes:
